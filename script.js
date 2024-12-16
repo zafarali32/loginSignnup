@@ -17,7 +17,7 @@ var x = document.getElementById("login");
 var y = document.getElementById("signup");
 
 function login() {
-    x.style.left = "4px";
+    x.style.left = "520px";
     y.style.right = "-520px";
     a.className += "white-Btn";
     b.className = "btn";
